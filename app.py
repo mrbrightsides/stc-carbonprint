@@ -45,6 +45,13 @@ with st.sidebar:
     6. [Business Intelligence](https://rantai-busi.streamlit.app/)
     7. [Predictive Modelling](https://rantai-model-predi.streamlit.app/)
     8. [Ethic & Bias Checker](https://rantai-ethika.streamlit.app/)
+    9. [Decentralized Supply Chain](https://rantai-trace.streamlit.app/)
+    10. [ESG Compliance Manager](https://rantai-sentinel.streamlit.app/)
+    11. [Decentralized Storage Optimizer](https://rantai-greenstorage.streamlit.app/)
+    12. [Cloud Carbon Footprint Tracker](https://rantai-greencloud.streamlit.app/)
+    13. [Cloud.Climate.Chain](https://rantai-3c.streamlit.app/)
+    14. [Smart Atlas For Environment](https://rantai-safe.streamlit.app/)
+    15. [Real-time Social Sentiment](https://rantai-rss.streamlit.app/)
 
     ---
     #### 🙌 Dukungan & kontributor
