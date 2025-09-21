@@ -14,7 +14,7 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    STC CarbonPrint adalah modul turunan dari ekosistem SmartTourismChain (STC) yang berfokus pada pengukuran dan visualisasi jejak karbon.
+    **STC CarbonPrint** adalah modul turunan dari ekosistem SmartTourismChain (STC) yang berfokus pada pengukuran dan visualisasi jejak karbon.
     Dibangun dari Carbon Layer di ImpactViz, CarbonPrint berkembang menjadi tool mandiri yang dapat digunakan untuk riset, edukasi, hingga perencanaan kebijakan lingkungan—baik di sektor pariwisata maupun industri lainnya.
     Dengan CarbonPrint, data gas fee blockchain diterjemahkan menjadi angka nyata emisi karbon, sehingga memudahkan langkah mitigasi menuju target FOLU Net Sink 2030 dan tujuan SDGs.
 
