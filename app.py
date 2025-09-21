@@ -59,17 +59,17 @@ with st.sidebar:
     Versi UI: v1.0 • Streamlit • Theme Dark
     """)
 
-def embed_iframe(src, hide_top_px=72, height=800):
+def embed_iframe(src, hide_bottom_px=0, hide_top_px=72, height=800):
     components.html(f"""
     <div style="height:{height}px; overflow:hidden; position:relative;">
         <iframe src="{src}" 
-                style="width:100%; height:{height + hide_top_px}px; border:none; position:relative; top:-{hide_top_px}px;">
+                style="width:100%; height:{height + hide_top_px}px; border:none; position:relative; top:-{hide_top_px}px; top:-{hide_bottom_px}px;">
         </iframe>
     </div>
-    """, height=height)
+    """, height=height + hide_bottom_px)
 
 # URL Ohara
 iframe_url = "https://ohara.ai/mini-apps/1fb875a3-9722-46a0-8991-9669576739d2"
 
 # Panggil fungsi
-embed_iframe(iframe_url, hide_top_px=100, height=800)
+embed_iframe(iframe_url, hide_top_px=100, hide_bottom_px = 72, height=800)
