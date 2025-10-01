@@ -36,44 +36,14 @@ with st.sidebar:
     10. [DataHub](https://stc-data.streamlit.app/)
 
     ---
-    ### ⛓ RANTAI Communities
-
-    > 💡 RANTAI Communities adalah ekosistem apps eksperimental berbasis Web3 & AI untuk riset, kolaborasi, dan inovasi. Dibangun di atas 3 core: Dev → Build, Net → Connect, Lab → Grow.
+    ### 🧩 Apps Showcase
+    Lihat disini untuk semua tools yang kami kembangkan:
+    [ELPEEF](https://showcase.elpeef.com/)
     
-    🔧 Dev → “Build the chain”
-    1. [Numerical Methods Lab](https://metnumlab.streamlit.app/)
-    2. [Computational Analytics Studio](https://komnumlab.streamlit.app/)
-    3. [BlockPedia](https://blockpedia.streamlit.app/)
-    4. [Learn3](https://learn3.streamlit.app/)
-    5. [LearnPy](https://rantai-learnpy.streamlit.app/)
-    6. [Cruise](https://rantai-cruise.streamlit.app/)
-    7. [IndustriX](https://rantai-industrix.streamlit.app/)
-
-    🌐 Net → “Connect the chain”
-    1. [SmartFaith](https://smartfaith.streamlit.app/)
-    2. [Nexus](https://rantai-nexus.streamlit.app/)
-    3. [Decentralized Supply Chain](https://rantai-trace.streamlit.app/)
-    4. [ESG Compliance Manager](https://rantai-sentinel.streamlit.app/)
-    5. [Decentralized Storage Optimizer](https://rantai-greenstorage.streamlit.app/)
-    6. [Cloud Carbon Footprint Tracker](https://rantai-greencloud.streamlit.app/)
-    7. [Cloud.Climate.Chain](https://rantai-3c.streamlit.app/)
-    8. [Property Management System](https://rantai-pms.streamlit.app/)
-    
-    🌱 Lab → “Grow the chain”
-    1. [BlockBook](https://blockbook.streamlit.app/)
-    2. [Data Insights & Visualization Assistant](https://rantai-diva.streamlit.app/)
-    3. [Exploratory Data Analysis](https://rantai-exploda.streamlit.app/)
-    4. [Business Intelligence](https://rantai-busi.streamlit.app/)
-    5. [Predictive Modelling](https://rantai-model-predi.streamlit.app/)
-    6. [Ethic & Bias Checker](https://rantai-ethika.streamlit.app/)
-    7. [Smart Atlas For Environment](https://rantai-safe.streamlit.app/)
-    8. [Blockchain Healthcare Revolution](https://healthchain.streamlit.app/)
-    9. [Academic Flow Diagram Generator](https://mermaind.streamlit.app/)
-    10. [Decentralized Agriculture](https://agroviz.streamlit.app/)
-
     ---
     #### 🙌 Dukungan & kontributor
-    - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/stc-carbonprint)
+    
+    - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/rantai-pms)
     - Built with 💙 by [Khudri](https://s.id/khudri)
     - Dukung pengembangan proyek ini melalui: 
       [💖 GitHub Sponsors](https://github.com/sponsors/mrbrightsides) • 
@@ -133,8 +103,6 @@ def embed_iframe(src, hide_top_px=100, hide_bottom_px=0, height=800):
     </div>
     """, height=height + hide_top_px + hide_bottom_px)
 
-# URL Ohara
-iframe_url = "https://ohara.ai/mini-apps/1fb875a3-9722-46a0-8991-9669576739d2"
+iframe_url = "https://stc-carbonprint.elpeef.com/"
 
-# Panggil fungsi
-embed_iframe(iframe_url, hide_top_px=110, hide_bottom_px = 25, height=800)
+embed_iframe(iframe_url, hide_top_px=40, hide_bottom_px = -145, height=800)
