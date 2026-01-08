@@ -421,12 +421,12 @@ Transisi energi berkeadilan hanya akan berhasil jika semua stakeholder—dari pe
 ## Appendix B: Contact & Resources
 
 **STC CarbonPrint Team**  
-Email: support@elpeef.com
-Website: https://elpeef.com/ 
+- Email: support@elpeef.com
+- Website: https://elpeef.com/ 
 
 **Social Media:**  
-Discord: https://discord.com/channels/@khudri_61362 
-LinkedIn: https://linkedin.com/in/akhmad-khudri  
+- Discord: https://discord.com/channels/@khudri_61362 
+- LinkedIn: https://linkedin.com/in/akhmad-khudri  
 
 **For Partnership Inquiries:**  
 khudri@binadarma.ac.id
